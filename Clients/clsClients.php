@@ -22,6 +22,11 @@ class clsClients
         
         return($sReturn);
     }
+
+    function newFUnction()
+    {
+        echo "<hi>";
+    }
     
     function ClientsDashboard()
     {
