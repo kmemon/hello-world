@@ -26,6 +26,7 @@ class clsClients
     function newFUnction()
     {
         echo "<hi>";
+        $a = "Changes to the wold"
     }
     
     function ClientsDashboard()
