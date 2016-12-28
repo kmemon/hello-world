@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 class clsClients
 {
@@ -22,7 +22,10 @@ class clsClients
         
         return($sReturn);
     }
-
+function test()
+{
+	echo "bye";
+}
     function newFUnction()
     {
         echo "<hi>";
